@@ -17,7 +17,7 @@ namespace Code.Scripts
             }
             if (Input.GetKeyDown(KeyCode.A))
             {
-                CameraMovementManager.Instance.MoveCamera(new Vector3(0, -90, 0), new Vector3(0, 2.36f, -11.227f));
+                CameraMovementManager.Instance.MoveCamera(new Vector3(0, -90, 0), new Vector3(0, -64.801f, -3.664f));
             }
             if (Input.GetKeyDown(KeyCode.W))
             {

@@ -6,11 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="85b9c48d-448f-4e78-828f-71836f10c57a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JogoDuReibaxl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JogoDuReibaxl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Models/EDIF1_FINAL.obj.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Models/EDIF2_FINAL.obj.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Exterior/Skycraper.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Exterior/Skycraper.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Office/Calendar.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Office/Calendar.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Code/Scripts/InputManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/InputManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Exterior/Buildings/DetailedBuilding.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Exterior/Buildings/DetailedBuilding.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Exterior/Buildings/DetailedSkyscraper.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Exterior/Buildings/DetailedSkyscraper.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/ComputerScreen.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/ComputerScreen.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Desktop.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Desktop.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Glasses.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Glasses.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Mug.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Mug.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Notebook.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Notebook.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Notepad.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Notepad.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Papers 1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Papers 1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Papers.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Papers.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Telephone.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Telephone.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/MainTitle.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/MainTitle.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/OfficeScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/OfficeScene.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +119,7 @@
       <workItem from="1728680960383" duration="1504000" />
       <workItem from="1728729051086" duration="8521000" />
       <workItem from="1729893958194" duration="12785000" />
-      <workItem from="1729936774423" duration="4136000" />
+      <workItem from="1729936774423" duration="6080000" />
     </task>
     <servers />
   </component>
