@@ -6,10 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="85b9c48d-448f-4e78-828f-71836f10c57a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.JogoDuReibaxl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JogoDuReibaxl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Models/Rascacielos-1-detalle.obj.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/SampleScene.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/SampleScene.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Models/EDIF1_FINAL.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Models/EDIF2_FINAL.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Exterior/Skycraper.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Exterior/Skycraper.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/MainTitle.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/MainTitle.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +109,7 @@
       <workItem from="1728680960383" duration="1504000" />
       <workItem from="1728729051086" duration="8521000" />
       <workItem from="1729893958194" duration="12785000" />
-      <workItem from="1729936774423" duration="2343000" />
+      <workItem from="1729936774423" duration="4136000" />
     </task>
     <servers />
   </component>
