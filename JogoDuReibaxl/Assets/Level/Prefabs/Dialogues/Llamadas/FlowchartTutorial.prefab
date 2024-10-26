@@ -112,7 +112,6 @@ GameObject:
   - component: {fileID: 7522862787734447823}
   - component: {fileID: 2827391517216054170}
   - component: {fileID: 880781390831696276}
-  - component: {fileID: 7348876917564596976}
   - component: {fileID: 2066355052303949920}
   - component: {fileID: 6789149461780334755}
   - component: {fileID: 8754040273317121104}
@@ -151,7 +150,6 @@ GameObject:
   - component: {fileID: 5873681090200728961}
   - component: {fileID: 8972046356328419426}
   - component: {fileID: 4939250040655229779}
-  - component: {fileID: 5049887225497324813}
   - component: {fileID: 1076962910320296617}
   - component: {fileID: 8750579408507159258}
   - component: {fileID: 1848530097004243203}
@@ -161,12 +159,10 @@ GameObject:
   - component: {fileID: 1160065704871101212}
   - component: {fileID: 1217615918263597}
   - component: {fileID: 1696010672631967030}
-  - component: {fileID: 3441419652874362528}
   - component: {fileID: 22369819385606745}
   - component: {fileID: 5643600826340127928}
   - component: {fileID: 1722502207795224574}
   - component: {fileID: 7111512590747434143}
-  - component: {fileID: 8074659318384187406}
   - component: {fileID: 654357141471324387}
   - component: {fileID: 723382380542612504}
   m_Layer: 0
@@ -204,25 +200,24 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 436.87405, y: 145.11389}
+  scrollPos: {x: 279.20422, y: 645.75366}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
-  blockViewHeight: 351
-  zoom: 1
+  blockViewHeight: 468
+  zoom: 0.37
   scrollViewRect:
     serializedVersion: 2
     x: -343
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 8270439967295951159}
+  selectedBlocks: []
   selectedCommands: []
   variables:
   - {fileID: 5143037606941603009}
   - {fileID: 7309692149993982525}
-  - {fileID: 880781390831696276}
   - {fileID: 164241891431285238}
+  - {fileID: 880781390831696276}
   description: 
   stepPause: 0
   colorCommands: 1
@@ -249,7 +244,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: -27.174099
     y: 44.186104
-    width: 170
+    width: 74.324326
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -295,7 +290,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 248.82153
     y: -36.736443
-    width: 91.6
+    width: 93.24324
     height: 40
   tint: {r: 0, g: 1, b: 0.054581404, a: 1}
   useCustomTint: 1
@@ -309,7 +304,6 @@ MonoBehaviour:
   - {fileID: 816529699550381176}
   - {fileID: 105987646438825608}
   - {fileID: 6160998321579998084}
-  - {fileID: 7348876917564596976}
   suppressAllAutoSelections: 0
 --- !u!114 &5485970284305818546
 MonoBehaviour:
@@ -383,7 +377,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 221.70184
     y: 91.67888
-    width: 132.4
+    width: 133.78378
     height: 40
   tint: {r: 0.21960784, g: 0.21960784, b: 0.21960784, a: 1}
   useCustomTint: 1
@@ -965,7 +959,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 462.29617
     y: -96.813896
-    width: 101.2
+    width: 101.35135
     height: 40
   tint: {r: 0, g: 0.882353, b: 0.04705883, a: 1}
   useCustomTint: 1
@@ -994,7 +988,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 462.47263
     y: -45.28448
-    width: 101.2
+    width: 101.35135
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -1023,7 +1017,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 460.6491
     y: 14.774339
-    width: 93.2
+    width: 95.945946
     height: 40
   tint: {r: 0.9803922, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -1187,9 +1181,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: -20.115273
-    y: -38.166824
-    width: 211.6
+    x: -71.5438
+    y: -53.881115
+    width: 212.16216
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 1
@@ -1811,7 +1805,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 641.9316
     y: -49.291267
-    width: 134.8
+    width: 136.48648
     height: 40
   tint: {r: 0.3921569, g: 0, b: 0.80392164, a: 1}
   useCustomTint: 1
@@ -1904,7 +1898,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 857.58997
     y: -127.40213
-    width: 107.6
+    width: 106.75676
     height: 40
   tint: {r: 0, g: 0.882353, b: 0.04705883, a: 1}
   useCustomTint: 1
@@ -1932,7 +1926,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 858.9429
     y: -74.69624
-    width: 107.6
+    width: 106.75676
     height: 40
   tint: {r: 0, g: 0.86666673, b: 0.04705883, a: 1}
   useCustomTint: 1
@@ -1962,7 +1956,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 857.1193
     y: 18.30375
-    width: 141.2
+    width: 141.89189
     height: 40
   tint: {r: 0.9803922, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -2020,9 +2014,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 861.9145
-    y: -26.402122
-    width: 102
+    x: 855.58545
+    y: -23.870476
+    width: 101.35135
     height: 40
   tint: {r: 0.9803922, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -2080,7 +2074,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1223.617
     y: -108.914154
-    width: 149.2
+    width: 147.2973
     height: 40
   tint: {r: 0.43239987, g: 0, b: 0.88235295, a: 1}
   useCustomTint: 1
@@ -2138,7 +2132,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1247.5186
     y: -15.127399
-    width: 190.8
+    width: 187.83783
     height: 40
   tint: {r: 0.43239987, g: 0, b: 0.88235295, a: 1}
   useCustomTint: 1
@@ -2193,9 +2187,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1541.713
+    x: 1544.2448
     y: -114.659874
-    width: 155.6
+    width: 152.7027
     height: 40
   tint: {r: 0, g: 0.882353, b: 0.04705883, a: 1}
   useCustomTint: 1
@@ -2258,7 +2252,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1545.7639
     y: -64.09214
-    width: 149.2
+    width: 147.2973
     height: 40
   tint: {r: 0.8745099, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -2314,9 +2308,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1535.5797
+    x: 1538.1115
     y: -12.196597
-    width: 182.8
+    width: 182.43243
     height: 40
   tint: {r: 0, g: 0.8588236, b: 0.04705883, a: 1}
   useCustomTint: 1
@@ -2379,7 +2373,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1766.7463
     y: -69.29348
-    width: 197.2
+    width: 193.24324
     height: 40
   tint: {r: 0.43239987, g: 0, b: 0.88235295, a: 1}
   useCustomTint: 1
@@ -2711,7 +2705,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1096.4514
     y: -17.425392
-    width: 93.2
+    width: 93.24324
     height: 40
   tint: {r: 0.43239987, g: 0, b: 0.88235295, a: 1}
   useCustomTint: 1
@@ -3406,159 +3400,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scope: 0
   key: Karma
-  value: 0
---- !u!114 &7348876917564596976
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4313517333292096428}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 153
-  indentLevel: 0
-  anyVar:
-    variable: {fileID: 880781390831696276}
-    data:
-      animatorData:
-        animatorRef: {fileID: 0}
-        animatorVal: {fileID: 0}
-      audioSourceData:
-        audioSourceRef: {fileID: 0}
-        audioSourceVal: {fileID: 0}
-      booleanData:
-        booleanRef: {fileID: 0}
-        booleanVal: 0
-      collectionData:
-        collectionRef: {fileID: 0}
-        collectionVal: {fileID: 0}
-      collider2DData:
-        collider2DRef: {fileID: 0}
-        collider2DVal: {fileID: 0}
-      colliderData:
-        colliderRef: {fileID: 0}
-        colliderVal: {fileID: 0}
-      colorData:
-        colorRef: {fileID: 0}
-        colorVal: {r: 0, g: 0, b: 0, a: 0}
-      floatData:
-        floatRef: {fileID: 0}
-        floatVal: 0
-      gameObjectData:
-        gameObjectRef: {fileID: 0}
-        gameObjectVal: {fileID: 0}
-      integerData:
-        integerRef: {fileID: 0}
-        integerVal: 1
-      materialData:
-        materialRef: {fileID: 0}
-        materialVal: {fileID: 0}
-      matrix4x4Data:
-        matrix4x4Ref: {fileID: 0}
-        matrix4x4Val:
-          e00: 0
-          e01: 0
-          e02: 0
-          e03: 0
-          e10: 0
-          e11: 0
-          e12: 0
-          e13: 0
-          e20: 0
-          e21: 0
-          e22: 0
-          e23: 0
-          e30: 0
-          e31: 0
-          e32: 0
-          e33: 0
-      objectData:
-        objectRef: {fileID: 0}
-        objectVal: {fileID: 0}
-      quaternionData:
-        quaternionRef: {fileID: 0}
-        quaternionVal: {x: 0, y: 0, z: 0, w: 0}
-      rigidbody2DData:
-        rigidbody2DRef: {fileID: 0}
-        rigidbody2DVal: {fileID: 0}
-      rigidbodyData:
-        rigidbodyRef: {fileID: 0}
-        rigidbodyVal: {fileID: 0}
-      spriteData:
-        spriteRef: {fileID: 0}
-        spriteVal: {fileID: 0}
-      stringData:
-        stringRef: {fileID: 0}
-        stringVal: 
-      textureData:
-        textureRef: {fileID: 0}
-        textureVal: {fileID: 0}
-      transformData:
-        transformRef: {fileID: 0}
-        transformVal: {fileID: 0}
-      vector2Data:
-        vector2Ref: {fileID: 0}
-        vector2Val: {x: 0, y: 0}
-      vector3Data:
-        vector3Ref: {fileID: 0}
-        vector3Val: {x: 0, y: 0, z: 0}
-      vector4Data:
-        vector4Ref: {fileID: 0}
-        vector4Val: {x: 0, y: 0, z: 0, w: 0}
-  setOperator: 2
-  variable: {fileID: 0}
-  booleanData:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
-  integerData:
-    integerRef: {fileID: 0}
-    integerVal: 0
-  floatData:
-    floatRef: {fileID: 0}
-    floatVal: 0
-  stringData:
-    stringRef: {fileID: 0}
-    stringVal: 
-  animatorData:
-    animatorRef: {fileID: 0}
-    animatorVal: {fileID: 0}
-  audioSourceData:
-    audioSourceRef: {fileID: 0}
-    audioSourceVal: {fileID: 0}
-  colorData:
-    colorRef: {fileID: 0}
-    colorVal: {r: 0, g: 0, b: 0, a: 0}
-  gameObjectData:
-    gameObjectRef: {fileID: 0}
-    gameObjectVal: {fileID: 0}
-  materialData:
-    materialRef: {fileID: 0}
-    materialVal: {fileID: 0}
-  objectData:
-    objectRef: {fileID: 0}
-    objectVal: {fileID: 0}
-  rigidbody2DData:
-    rigidbody2DRef: {fileID: 0}
-    rigidbody2DVal: {fileID: 0}
-  spriteData:
-    spriteRef: {fileID: 0}
-    spriteVal: {fileID: 0}
-  textureData:
-    textureRef: {fileID: 0}
-    textureVal: {fileID: 0}
-  transformData:
-    transformRef: {fileID: 0}
-    transformVal: {fileID: 0}
-  vector2Data:
-    vector2Ref: {fileID: 0}
-    vector2Val: {x: 0, y: 0}
-  vector3Data:
-    vector3Ref: {fileID: 0}
-    vector3Val: {x: 0, y: 0, z: 0}
+  value: 80
 --- !u!114 &2066355052303949920
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3605,7 +3447,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 10
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -3757,7 +3599,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 10
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -3909,7 +3751,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 10
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -4061,7 +3903,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 10
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -4213,7 +4055,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 10
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -4517,7 +4359,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 10
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -4669,7 +4511,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 10
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -4821,7 +4663,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 10
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -4973,7 +4815,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 10
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -5093,9 +4935,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 2039.4076
+    x: 2041.9393
     y: -149.90836
-    width: 156.4
+    width: 155.4054
     height: 40
   tint: {r: 0, g: 0.882353, b: 0.04705883, a: 1}
   useCustomTint: 1
@@ -5153,7 +4995,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 10
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -5275,7 +5117,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2043.2922
     y: -94.56679
-    width: 155.6
+    width: 152.7027
     height: 40
   tint: {r: 0, g: 0.86666673, b: 0.04705883, a: 1}
   useCustomTint: 1
@@ -5333,7 +5175,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 10
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -5455,7 +5297,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2038.9369
     y: -2.8326092
-    width: 189.2
+    width: 187.83783
     height: 40
   tint: {r: 0.9803922, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -5542,7 +5384,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 10
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -5664,7 +5506,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2043.732
     y: -47.538486
-    width: 143.6
+    width: 141.89189
     height: 40
   tint: {r: 0.9803922, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -5722,7 +5564,7 @@ MonoBehaviour:
         gameObjectVal: {fileID: 0}
       integerData:
         integerRef: {fileID: 0}
-        integerVal: 1
+        integerVal: 10
       materialData:
         materialRef: {fileID: 0}
         materialVal: {fileID: 0}
@@ -5948,7 +5790,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2291.293
     y: -75.68994
-    width: 238.8
+    width: 233.78378
     height: 40
   tint: {r: 0.43239987, g: 0, b: 0.88235295, a: 1}
   useCustomTint: 1
@@ -6062,7 +5904,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2593.0085
     y: -36.698433
-    width: 185.2
+    width: 182.43243
     height: 40
   tint: {r: 0.9803922, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -6092,7 +5934,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2587.3433
     y: -111.20917
-    width: 197.2
+    width: 193.24324
     height: 40
   tint: {r: 0, g: 0.86666673, b: 0.04705883, a: 1}
   useCustomTint: 1
@@ -6103,7 +5945,6 @@ MonoBehaviour:
   commandList:
   - {fileID: 4939250040655229779}
   - {fileID: 100863460368309186}
-  - {fileID: 5049887225497324813}
   - {fileID: 1076962910320296617}
   - {fileID: 5643600826340127928}
   suppressAllAutoSelections: 0
@@ -6525,158 +6366,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &5049887225497324813
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4313517333292096428}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 220
-  indentLevel: 0
-  anyVar:
-    variable: {fileID: 0}
-    data:
-      animatorData:
-        animatorRef: {fileID: 0}
-        animatorVal: {fileID: 0}
-      audioSourceData:
-        audioSourceRef: {fileID: 0}
-        audioSourceVal: {fileID: 0}
-      booleanData:
-        booleanRef: {fileID: 0}
-        booleanVal: 0
-      collectionData:
-        collectionRef: {fileID: 0}
-        collectionVal: {fileID: 0}
-      collider2DData:
-        collider2DRef: {fileID: 0}
-        collider2DVal: {fileID: 0}
-      colliderData:
-        colliderRef: {fileID: 0}
-        colliderVal: {fileID: 0}
-      colorData:
-        colorRef: {fileID: 0}
-        colorVal: {r: 0, g: 0, b: 0, a: 0}
-      floatData:
-        floatRef: {fileID: 0}
-        floatVal: 0
-      gameObjectData:
-        gameObjectRef: {fileID: 0}
-        gameObjectVal: {fileID: 0}
-      integerData:
-        integerRef: {fileID: 0}
-        integerVal: 1
-      materialData:
-        materialRef: {fileID: 0}
-        materialVal: {fileID: 0}
-      matrix4x4Data:
-        matrix4x4Ref: {fileID: 0}
-        matrix4x4Val:
-          e00: 0
-          e01: 0
-          e02: 0
-          e03: 0
-          e10: 0
-          e11: 0
-          e12: 0
-          e13: 0
-          e20: 0
-          e21: 0
-          e22: 0
-          e23: 0
-          e30: 0
-          e31: 0
-          e32: 0
-          e33: 0
-      objectData:
-        objectRef: {fileID: 0}
-        objectVal: {fileID: 0}
-      quaternionData:
-        quaternionRef: {fileID: 0}
-        quaternionVal: {x: 0, y: 0, z: 0, w: 0}
-      rigidbody2DData:
-        rigidbody2DRef: {fileID: 0}
-        rigidbody2DVal: {fileID: 0}
-      rigidbodyData:
-        rigidbodyRef: {fileID: 0}
-        rigidbodyVal: {fileID: 0}
-      spriteData:
-        spriteRef: {fileID: 0}
-        spriteVal: {fileID: 0}
-      stringData:
-        stringRef: {fileID: 0}
-        stringVal: 
-      textureData:
-        textureRef: {fileID: 0}
-        textureVal: {fileID: 0}
-      transformData:
-        transformRef: {fileID: 0}
-        transformVal: {fileID: 0}
-      vector2Data:
-        vector2Ref: {fileID: 0}
-        vector2Val: {x: 0, y: 0}
-      vector3Data:
-        vector3Ref: {fileID: 0}
-        vector3Val: {x: 0, y: 0, z: 0}
-      vector4Data:
-        vector4Ref: {fileID: 0}
-        vector4Val: {x: 0, y: 0, z: 0, w: 0}
-  setOperator: 0
-  variable: {fileID: 0}
-  booleanData:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
-  integerData:
-    integerRef: {fileID: 0}
-    integerVal: 0
-  floatData:
-    floatRef: {fileID: 0}
-    floatVal: 0
-  stringData:
-    stringRef: {fileID: 0}
-    stringVal: 
-  animatorData:
-    animatorRef: {fileID: 0}
-    animatorVal: {fileID: 0}
-  audioSourceData:
-    audioSourceRef: {fileID: 0}
-    audioSourceVal: {fileID: 0}
-  colorData:
-    colorRef: {fileID: 0}
-    colorVal: {r: 0, g: 0, b: 0, a: 0}
-  gameObjectData:
-    gameObjectRef: {fileID: 0}
-    gameObjectVal: {fileID: 0}
-  materialData:
-    materialRef: {fileID: 0}
-    materialVal: {fileID: 0}
-  objectData:
-    objectRef: {fileID: 0}
-    objectVal: {fileID: 0}
-  rigidbody2DData:
-    rigidbody2DRef: {fileID: 0}
-    rigidbody2DVal: {fileID: 0}
-  spriteData:
-    spriteRef: {fileID: 0}
-    spriteVal: {fileID: 0}
-  textureData:
-    textureRef: {fileID: 0}
-    textureVal: {fileID: 0}
-  transformData:
-    transformRef: {fileID: 0}
-    transformVal: {fileID: 0}
-  vector2Data:
-    vector2Ref: {fileID: 0}
-    vector2Val: {x: 0, y: 0}
-  vector3Data:
-    vector3Ref: {fileID: 0}
-    vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &1076962910320296617
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6816,9 +6505,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 2826.3801
-    y: -72.60754
-    width: 74.8
+    x: 2833.9753
+    y: -81.4683
+    width: 74.324326
     height: 40
   tint: {r: 0.21960786, g: 0.21960786, b: 0.21960786, a: 1}
   useCustomTint: 1
@@ -6829,10 +6518,8 @@ MonoBehaviour:
   commandList:
   - {fileID: 1217615918263597}
   - {fileID: 1696010672631967030}
-  - {fileID: 3441419652874362528}
   - {fileID: 22369819385606745}
   - {fileID: 7111512590747434143}
-  - {fileID: 8074659318384187406}
   suppressAllAutoSelections: 0
 --- !u!114 &1217615918263597
 MonoBehaviour:
@@ -6893,158 +6580,6 @@ MonoBehaviour:
   stopVoiceover: 1
   waitForVO: 0
   setSayDialog: {fileID: 0}
---- !u!114 &3441419652874362528
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4313517333292096428}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fb77d0ce495044f6e9feb91b31798e8c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 229
-  indentLevel: 0
-  anyVar:
-    variable: {fileID: 0}
-    data:
-      animatorData:
-        animatorRef: {fileID: 0}
-        animatorVal: {fileID: 0}
-      audioSourceData:
-        audioSourceRef: {fileID: 0}
-        audioSourceVal: {fileID: 0}
-      booleanData:
-        booleanRef: {fileID: 0}
-        booleanVal: 0
-      collectionData:
-        collectionRef: {fileID: 0}
-        collectionVal: {fileID: 0}
-      collider2DData:
-        collider2DRef: {fileID: 0}
-        collider2DVal: {fileID: 0}
-      colliderData:
-        colliderRef: {fileID: 0}
-        colliderVal: {fileID: 0}
-      colorData:
-        colorRef: {fileID: 0}
-        colorVal: {r: 0, g: 0, b: 0, a: 0}
-      floatData:
-        floatRef: {fileID: 0}
-        floatVal: 0
-      gameObjectData:
-        gameObjectRef: {fileID: 0}
-        gameObjectVal: {fileID: 0}
-      integerData:
-        integerRef: {fileID: 0}
-        integerVal: 1
-      materialData:
-        materialRef: {fileID: 0}
-        materialVal: {fileID: 0}
-      matrix4x4Data:
-        matrix4x4Ref: {fileID: 0}
-        matrix4x4Val:
-          e00: 0
-          e01: 0
-          e02: 0
-          e03: 0
-          e10: 0
-          e11: 0
-          e12: 0
-          e13: 0
-          e20: 0
-          e21: 0
-          e22: 0
-          e23: 0
-          e30: 0
-          e31: 0
-          e32: 0
-          e33: 0
-      objectData:
-        objectRef: {fileID: 0}
-        objectVal: {fileID: 0}
-      quaternionData:
-        quaternionRef: {fileID: 0}
-        quaternionVal: {x: 0, y: 0, z: 0, w: 0}
-      rigidbody2DData:
-        rigidbody2DRef: {fileID: 0}
-        rigidbody2DVal: {fileID: 0}
-      rigidbodyData:
-        rigidbodyRef: {fileID: 0}
-        rigidbodyVal: {fileID: 0}
-      spriteData:
-        spriteRef: {fileID: 0}
-        spriteVal: {fileID: 0}
-      stringData:
-        stringRef: {fileID: 0}
-        stringVal: 
-      textureData:
-        textureRef: {fileID: 0}
-        textureVal: {fileID: 0}
-      transformData:
-        transformRef: {fileID: 0}
-        transformVal: {fileID: 0}
-      vector2Data:
-        vector2Ref: {fileID: 0}
-        vector2Val: {x: 0, y: 0}
-      vector3Data:
-        vector3Ref: {fileID: 0}
-        vector3Val: {x: 0, y: 0, z: 0}
-      vector4Data:
-        vector4Ref: {fileID: 0}
-        vector4Val: {x: 0, y: 0, z: 0, w: 0}
-  setOperator: 0
-  variable: {fileID: 0}
-  booleanData:
-    booleanRef: {fileID: 0}
-    booleanVal: 0
-  integerData:
-    integerRef: {fileID: 0}
-    integerVal: 0
-  floatData:
-    floatRef: {fileID: 0}
-    floatVal: 0
-  stringData:
-    stringRef: {fileID: 0}
-    stringVal: 
-  animatorData:
-    animatorRef: {fileID: 0}
-    animatorVal: {fileID: 0}
-  audioSourceData:
-    audioSourceRef: {fileID: 0}
-    audioSourceVal: {fileID: 0}
-  colorData:
-    colorRef: {fileID: 0}
-    colorVal: {r: 0, g: 0, b: 0, a: 0}
-  gameObjectData:
-    gameObjectRef: {fileID: 0}
-    gameObjectVal: {fileID: 0}
-  materialData:
-    materialRef: {fileID: 0}
-    materialVal: {fileID: 0}
-  objectData:
-    objectRef: {fileID: 0}
-    objectVal: {fileID: 0}
-  rigidbody2DData:
-    rigidbody2DRef: {fileID: 0}
-    rigidbody2DVal: {fileID: 0}
-  spriteData:
-    spriteRef: {fileID: 0}
-    spriteVal: {fileID: 0}
-  textureData:
-    textureRef: {fileID: 0}
-    textureVal: {fileID: 0}
-  transformData:
-    transformRef: {fileID: 0}
-    transformVal: {fileID: 0}
-  vector2Data:
-    vector2Ref: {fileID: 0}
-    vector2Val: {x: 0, y: 0}
-  vector3Data:
-    vector3Ref: {fileID: 0}
-    vector3Val: {x: 0, y: 0, z: 0}
 --- !u!114 &22369819385606745
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -7123,22 +6658,6 @@ MonoBehaviour:
   soundClip: {fileID: 8300000, guid: d11b3946002b69841a875824b7dccbce, type: 3}
   volume: 1
   waitUntilFinished: 1
---- !u!114 &8074659318384187406
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4313517333292096428}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ae67a23cb4aa74793b41258ae40bf321, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  itemId: 565
-  indentLevel: 0
-  stopParentFlowchart: 0
-  targetFlowcharts: []
 --- !u!114 &654357141471324387
 MonoBehaviour:
   m_ObjectHideFlags: 0
