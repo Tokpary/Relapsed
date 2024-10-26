@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:JogoDuReibaxl/Assets/Art/Models/CalendarioUVSdef.fbx.meta
 guid: 2964b59c918b9ee4fa615879cbb48c41
+========
+guid: b8fa2f2cbf01ad84089968964f1f3740
+>>>>>>>> origin/DialogImplementation:JogoDuReibaxl/Assets/Art/Models/EDIF1_FINAL.fbx.meta
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
