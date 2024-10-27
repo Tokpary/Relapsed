@@ -77,7 +77,7 @@ public class CanvaSelector : MonoBehaviour
         currentIndx--;
         if (currentIndx < 0)
         {
-            currentIndx = 4; // Volver al último
+            currentIndx = 4; // Volver al ï¿½ltimo
         }
 
         actualizarFicha();
@@ -86,7 +86,7 @@ public class CanvaSelector : MonoBehaviour
 
     public void actualizarFicha()
     {
-            campoImagen.sprite = imagen[currentIndx];
+            //campoImagen.sprite = imagen[currentIndx];
             campoNombre.text = nombre[currentIndx];
             campoNacimiento.text = nacimiento[currentIndx];
             campoCreencia.text = creencia[currentIndx];
