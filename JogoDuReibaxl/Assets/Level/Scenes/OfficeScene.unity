@@ -17763,7 +17763,7 @@ PrefabInstance:
     - target: {fileID: 8911234987547993, guid: 7129524068cc27f40b0c4bf1d21dd1ed, type: 3}
       propertyPath: character
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 442423167}
     - target: {fileID: 8911234987547993, guid: 7129524068cc27f40b0c4bf1d21dd1ed, type: 3}
       propertyPath: storyText
       value: 'Y gracias de nuevo, me has ayudado a tranquilizarme.                                        '
