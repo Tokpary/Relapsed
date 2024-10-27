@@ -508,9 +508,8 @@ PrefabInstance:
         Camu\xF1as\r\nNuria Serrano\r\n\r\n<b><size=25>Programaci\xF3n de Sistemas\r</b></size>\nNuria
         Serrano\r\n\r\n<b><size=25>Asistencia en programaci\xF3n \r</b></size>\nAnatoli
         Nichei\r\n\r\n\r\n\r\n<b><size=30>-AYUDA DE TERCEROS-</b></size>\n\r\n<b><size=25>Consultas
-        en salud mental</b></size>\r\nLucila Celeste Bua\r\n\r\n<b><size=25>Beta
-        Testing\r</b></size>\n-\n-\n-\n-\n-\n-\n-\n-\n-\n-\n\n<b><size=30>Una producci\xF3n
-        de Maracaos\r</b></size>\n"
+        en salud mental</b></size>\r\nLucila Celeste Bua\r\n\r\n\n<b><size=30>Una
+        producci\xF3n de Maracaos\r</b></size>\n"
       objectReference: {fileID: 0}
     - target: {fileID: 8914374456428741001, guid: ed357155eb15fbf41ba586e11f982f93,
         type: 3}
