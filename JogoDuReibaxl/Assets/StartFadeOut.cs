@@ -23,4 +23,12 @@ public class StartFadeOut : MonoBehaviour
         sequence.AppendInterval(2f);
         sequence.AppendCallback(() => SceneManager.LoadScene(1));
     }
+    public void FadeIn()
+    {
+        _image.DOColor(new Color(0,0,0, 1), _fadeSpeed).SetEase(Ease.InQuad);
+    }
+    public void FadeOut()
+    {
+        _image.DOColor(new Color(0,0,0, 0), _fadeSpeed).SetEase(Ease.InQuad);
+    }
 }
