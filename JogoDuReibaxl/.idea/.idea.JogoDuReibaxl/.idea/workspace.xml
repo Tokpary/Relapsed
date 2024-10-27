@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b9c48d-448f-4e78-828f-71836f10c57a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Code/Scripts/InteractableObjects/InteractableCarrouselWindow.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Code/Scripts/InteractableObjects/InteractableCarrouselWindow.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Code/Scripts/InteractableObjects/InteractableComputer.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Code/Scripts/InteractableObjects/InteractableComputer.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.JogoDuReibaxl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JogoDuReibaxl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Credits.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Credits.anim" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Scripts/CallManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/CallManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Scripts/CameraMovementManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/CameraMovementManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Scripts/InputManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/InputManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Scripts/InteractableObjects/InteractablePhone.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/InteractableObjects/InteractablePhone.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Scripts/InteractableObjects/InteractableWithCarrousel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/InteractableObjects/InteractableWithCarrousel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Exterior/Buildings/DetailedSkyscraper.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Exterior/Buildings/DetailedSkyscraper.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Exterior/WideBuilding.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Exterior/WideBuilding.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/CursorPrototype.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/CursorPrototype.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/MainTitle.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/MainTitle.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/OfficeScene 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/OfficeScene 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/OfficeScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/OfficeScene.unity" afterDir="false" />
-    </list>
+    <list default="true" id="85b9c48d-448f-4e78-828f-71836f10c57a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +107,7 @@
       <workItem from="1729893958194" duration="12785000" />
       <workItem from="1729936774423" duration="11029000" />
       <workItem from="1729980725003" duration="4184000" />
-      <workItem from="1729986044248" duration="7256000" />
+      <workItem from="1729986044248" duration="7571000" />
     </task>
     <servers />
   </component>
