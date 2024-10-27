@@ -3874,6 +3874,11 @@ PrefabInstance:
       propertyPath: commandList.Array.data[5]
       value: 
       objectReference: {fileID: 111433657}
+    - target: {fileID: 529249869844218025, guid: 9b9e45b02aeba8f42a5c52dbb856dfe4,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 131937782}
     - target: {fileID: 565315958826211791, guid: 9b9e45b02aeba8f42a5c52dbb856dfe4,
         type: 3}
       propertyPath: text
@@ -4609,6 +4614,11 @@ PrefabInstance:
       propertyPath: commandList.Array.data[14]
       value: 
       objectReference: {fileID: 111433606}
+    - target: {fileID: 4357967691654398507, guid: 9b9e45b02aeba8f42a5c52dbb856dfe4,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 499699927}
     - target: {fileID: 4455040310978378232, guid: 9b9e45b02aeba8f42a5c52dbb856dfe4,
         type: 3}
       propertyPath: character
@@ -4975,7 +4985,7 @@ PrefabInstance:
     - target: {fileID: 6156031319103387419, guid: 9b9e45b02aeba8f42a5c52dbb856dfe4,
         type: 3}
       propertyPath: selectedBlocks.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6156031319103387419, guid: 9b9e45b02aeba8f42a5c52dbb856dfe4,
         type: 3}
@@ -6258,7 +6268,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2645.9153
     y: -365.62067
-    width: 91.86042
+    width: 95.94589
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -96440,7 +96450,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 889012552}
+  selectedFlowchart: {fileID: 88737275}
 --- !u!4 &1501030019
 Transform:
   m_ObjectHideFlags: 1
