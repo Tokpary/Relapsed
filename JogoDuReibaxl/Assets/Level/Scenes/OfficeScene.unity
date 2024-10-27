@@ -25861,12 +25861,12 @@ PrefabInstance:
     - target: {fileID: 9132834363428914061, guid: 42581959c67e6d241b22ad3432c328be,
         type: 3}
       propertyPath: selectedBlocks.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9132834363428914061, guid: 42581959c67e6d241b22ad3432c328be,
         type: 3}
       propertyPath: selectedCommands.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9132834363428914061, guid: 42581959c67e6d241b22ad3432c328be,
         type: 3}
@@ -31369,6 +31369,11 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 499699927}
+    - target: {fileID: 4633166453996239467, guid: 3d1215fb262b6484f83bbc2724627b94,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 131937782}
     - target: {fileID: 4748604177412906275, guid: 3d1215fb262b6484f83bbc2724627b94,
         type: 3}
       propertyPath: character
@@ -31674,7 +31679,7 @@ PrefabInstance:
     - target: {fileID: 6608364817645977739, guid: 3d1215fb262b6484f83bbc2724627b94,
         type: 3}
       propertyPath: nodeRect.y
-      value: -296.39703
+      value: -293.17123
       objectReference: {fileID: 0}
     - target: {fileID: 6608364817645977739, guid: 3d1215fb262b6484f83bbc2724627b94,
         type: 3}
@@ -32000,7 +32005,7 @@ PrefabInstance:
     - target: {fileID: 8245782800288685835, guid: 3d1215fb262b6484f83bbc2724627b94,
         type: 3}
       propertyPath: selectedBlocks.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8245782800288685835, guid: 3d1215fb262b6484f83bbc2724627b94,
         type: 3}
@@ -72500,7 +72505,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 3486.01
     y: -337.16327
-    width: 95
+    width: 91.935486
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -72532,7 +72537,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 9361.02
     y: 1274.0055
-    width: 112.5
+    width: 108.064514
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -86493,7 +86498,7 @@ PrefabInstance:
     - target: {fileID: 1763576808278532866, guid: 27ac9ba538548d543ab2d264a599fece,
         type: 3}
       propertyPath: nodeRect.x
-      value: 631.42065
+      value: 634.99207
       objectReference: {fileID: 0}
     - target: {fileID: 1763576808278532866, guid: 27ac9ba538548d543ab2d264a599fece,
         type: 3}
@@ -87237,6 +87242,11 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 2022235535}
+    - target: {fileID: 4511716925715918293, guid: 27ac9ba538548d543ab2d264a599fece,
+        type: 3}
+      propertyPath: soundClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 912ce709b67e9a4479820282fc15d202, type: 3}
     - target: {fileID: 4639977898253028870, guid: 27ac9ba538548d543ab2d264a599fece,
         type: 3}
       propertyPath: nodeRect.width
@@ -87738,7 +87748,12 @@ PrefabInstance:
     - target: {fileID: 7474461075953123277, guid: 27ac9ba538548d543ab2d264a599fece,
         type: 3}
       propertyPath: nodeRect.x
-      value: 447.6517
+      value: 444.08026
+      objectReference: {fileID: 0}
+    - target: {fileID: 7474461075953123277, guid: 27ac9ba538548d543ab2d264a599fece,
+        type: 3}
+      propertyPath: nodeRect.y
+      value: -144.43768
       objectReference: {fileID: 0}
     - target: {fileID: 7474461075953123277, guid: 27ac9ba538548d543ab2d264a599fece,
         type: 3}
@@ -96425,7 +96440,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 1735222742}
+  selectedFlowchart: {fileID: 889012552}
 --- !u!4 &1501030019
 Transform:
   m_ObjectHideFlags: 1
@@ -99475,6 +99490,11 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 2000342128}
+    - target: {fileID: 2442583051149165108, guid: 6ca8f23830be1694c983d3b5c3df8122,
+        type: 3}
+      propertyPath: soundClip
+      value: 
+      objectReference: {fileID: 8300000, guid: 77a673f3bd029ef4b93ac4b6d219fa0e, type: 3}
     - target: {fileID: 2470752696750722064, guid: 6ca8f23830be1694c983d3b5c3df8122,
         type: 3}
       propertyPath: nodeRect.width
@@ -99560,6 +99580,11 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 569148804}
+    - target: {fileID: 4291000681697739160, guid: 6ca8f23830be1694c983d3b5c3df8122,
+        type: 3}
+      propertyPath: soundClip
+      value: 
+      objectReference: {fileID: 8300000, guid: d11b3946002b69841a875824b7dccbce, type: 3}
     - target: {fileID: 4296077103038274682, guid: 6ca8f23830be1694c983d3b5c3df8122,
         type: 3}
       propertyPath: nodeRect.width
@@ -99573,12 +99598,12 @@ PrefabInstance:
     - target: {fileID: 4603043937961600370, guid: 6ca8f23830be1694c983d3b5c3df8122,
         type: 3}
       propertyPath: scrollPos.x
-      value: 778.0256
+      value: -151.06548
       objectReference: {fileID: 0}
     - target: {fileID: 4603043937961600370, guid: 6ca8f23830be1694c983d3b5c3df8122,
         type: 3}
       propertyPath: scrollPos.y
-      value: 272.38382
+      value: 256.02023
       objectReference: {fileID: 0}
     - target: {fileID: 4603043937961600370, guid: 6ca8f23830be1694c983d3b5c3df8122,
         type: 3}
@@ -99604,7 +99629,7 @@ PrefabInstance:
         type: 3}
       propertyPath: selectedCommands.Array.data[0]
       value: 
-      objectReference: {fileID: 1674410519}
+      objectReference: {fileID: 0}
     - target: {fileID: 4603043937961600370, guid: 6ca8f23830be1694c983d3b5c3df8122,
         type: 3}
       propertyPath: selectedCommands.Array.data[1]
@@ -99675,6 +99700,16 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 131937782}
+    - target: {fileID: 8059470061508863566, guid: 6ca8f23830be1694c983d3b5c3df8122,
+        type: 3}
+      propertyPath: commandList.Array.size
+      value: 14
+      objectReference: {fileID: 0}
+    - target: {fileID: 8059470061508863566, guid: 6ca8f23830be1694c983d3b5c3df8122,
+        type: 3}
+      propertyPath: commandList.Array.data[10]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 8125979312690689880, guid: 6ca8f23830be1694c983d3b5c3df8122,
         type: 3}
       propertyPath: character
@@ -99794,6 +99829,7 @@ PrefabInstance:
     - {fileID: 5247031072781139658, guid: 6ca8f23830be1694c983d3b5c3df8122, type: 3}
     - {fileID: 2515974065146767037, guid: 6ca8f23830be1694c983d3b5c3df8122, type: 3}
     - {fileID: 8630339365339588273, guid: 6ca8f23830be1694c983d3b5c3df8122, type: 3}
+    - {fileID: 4995079309208112987, guid: 6ca8f23830be1694c983d3b5c3df8122, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
     m_AddedComponents:
@@ -99826,7 +99862,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 --- !u!114 &1674410517 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 630239613226482763, guid: 6ca8f23830be1694c983d3b5c3df8122,
+  m_CorrespondingSourceObject: {fileID: 8059470061508863566, guid: 6ca8f23830be1694c983d3b5c3df8122,
     type: 3}
   m_PrefabInstance: {fileID: 1674410514}
   m_PrefabAsset: {fileID: 0}
@@ -117103,7 +117139,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1965.0087
     y: 237.96306
-    width: 98
+    width: 96.42857
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -135806,7 +135842,7 @@ MonoBehaviour:
   delay: 0
 --- !u!114 &1956654362
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -135820,7 +135856,7 @@ MonoBehaviour:
   indentLevel: 0
 --- !u!114 &1956654363
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -135837,7 +135873,7 @@ MonoBehaviour:
   waitUntilFinished: 1
 --- !u!114 &1956654364
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -135858,7 +135894,7 @@ MonoBehaviour:
   callMode: 0
 --- !u!114 &1956654365
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -153251,7 +153287,7 @@ MonoBehaviour:
   delay: 0
 --- !u!114 &2111744244
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 2
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
