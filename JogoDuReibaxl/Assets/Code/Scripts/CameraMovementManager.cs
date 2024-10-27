@@ -25,7 +25,7 @@ namespace Code.Scripts
         {
             Vector3 position = target.position - transform.position;
             position = position.normalized;
-            _camera.transform.DOMove(target.position - (position * 0.3f), _duration).SetEase(_ease);
+            _camera.transform.DOMove(target.position - (position * 0.2f), _duration).SetEase(_ease);
             _camera.transform.DOLookAt(target.position, _duration).SetEase(_ease);
             
         }
