@@ -418,6 +418,41 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1433090224097557544, guid: ed357155eb15fbf41ba586e11f982f93,
+        type: 3}
+      propertyPath: m_text
+      value: "<b><size=25>Director del juego \r</b></size>\nAnatoli Nichei\r\n\r\n<b><size=25>Directores
+        creativos \r</b></size>\n Anatoli Nichei\r\n Ismael Esteban\r\n\r\n\r\n<b><size=30>-GUION-</size></b>\n\r\n<b><size=25>Director
+        de guion </b>\r</size>\nIsmael Esteban\r\n\r\n<b><size=25>Guionistas\r</b></size>\nAnatoli
+        Nichei\r\nIsmael Esteban \r\n\r\n\r\n<b><size=30>-ARTE-\r</b></size>\n\r\n<b><size=25>Arte
+        3D \r</b></size>\nLuc\xEDa Garc\xEDa\r\n\xC1lvaro Codorn\xEDu\r\n\r\n<b><size=25>Dise\xF1o
+        Gr\xE1fico \r</b></size>\nLuc\xEDa Garc\xEDa\r\n\r\n<b><size=25>Dise\xF1o
+        de interfaces\r</b></size>\n \xC1lvaro Codorn\xEDu\r\nLuc\xEDa Garc\xEDa\r\nNuria
+        Serrano\r\nHugo Camu\xF1as\r\n\r\n<b><size=25>Texturas \r</b></size>\nLuc\xEDa
+        Garc\xEDa\r\n\r\n<b><size=25>Arte 2D \r</b></size>\nLuc\xEDa Garc\xEDa\r\n\xC1lvaro
+        Codorn\xEDu\r\n\r\n\r\n<b><size=30>-PROGRAMACI\xD3N-\r</b></size>\n\r\n<b><size=25>Directora
+        de programaci\xF3n \r</b></size>\nNuria Serrano\r\n\r\n<b><size=25>Programadores\r</b></size>\nHugo
+        Camu\xF1as\r\nNuria Serrano\r\n\r\n<b><size=25>Programaci\xF3n de Sistemas\r</b></size>\nNuria
+        Serrano\r\n\r\n<b><size=25>Asistencia en programaci\xF3n \r</b></size>\nAnatoli
+        Nichei\r\n\r\n\r\n\r\n<b><size=30>-AYUDA DE TERCEROS-</b></size>\n\r\n<b><size=25>Consultas
+        en salud mental \r\r</b></size>\nLucila Celeste Bua\r\n\r\n\n<b><size=30>Una
+        producci\xF3n de Maracaos\r</b></size>\n"
+      objectReference: {fileID: 0}
+    - target: {fileID: 1433090224097557544, guid: ed357155eb15fbf41ba586e11f982f93,
+        type: 3}
+      propertyPath: m_fontColor32.rgba
+      value: 4294967295
+      objectReference: {fileID: 0}
+    - target: {fileID: 2304868863648909935, guid: ed357155eb15fbf41ba586e11f982f93,
+        type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -147
+      objectReference: {fileID: 0}
+    - target: {fileID: 2429132891908166260, guid: ed357155eb15fbf41ba586e11f982f93,
+        type: 3}
+      propertyPath: m_Color.a
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
