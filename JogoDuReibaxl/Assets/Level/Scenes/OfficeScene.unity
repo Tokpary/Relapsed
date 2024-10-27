@@ -1942,7 +1942,7 @@ PrefabInstance:
     - target: {fileID: 5954514736964363398, guid: 5b76ea2ee4aba554eb48933fdea9a9b5,
         type: 3}
       propertyPath: selectedBlocks.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5954514736964363398, guid: 5b76ea2ee4aba554eb48933fdea9a9b5,
         type: 3}
@@ -2397,14 +2397,19 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8127910431793407923, guid: 5b76ea2ee4aba554eb48933fdea9a9b5,
         type: 3}
-      propertyPath: commandList.Array.data[6]
+      propertyPath: commandList.Array.data[5]
       value: 
       objectReference: {fileID: 1432727085}
     - target: {fileID: 8127910431793407923, guid: 5b76ea2ee4aba554eb48933fdea9a9b5,
         type: 3}
-      propertyPath: commandList.Array.data[7]
+      propertyPath: commandList.Array.data[6]
       value: 
       objectReference: {fileID: 2005396472}
+    - target: {fileID: 8127910431793407923, guid: 5b76ea2ee4aba554eb48933fdea9a9b5,
+        type: 3}
+      propertyPath: commandList.Array.data[7]
+      value: 
+      objectReference: {fileID: 1841560900}
     - target: {fileID: 8127910431793407923, guid: 5b76ea2ee4aba554eb48933fdea9a9b5,
         type: 3}
       propertyPath: commandList.Array.data[8]
@@ -34279,7 +34284,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2195.2253
     y: -483.27625
-    width: 91.86044
+    width: 98
     height: 40
   tint: {r: 1, g: 1, b: 1, a: 1}
   useCustomTint: 0
@@ -96687,7 +96692,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 889012552}
+  selectedFlowchart: {fileID: 110861231}
 --- !u!4 &1501030019
 Transform:
   m_ObjectHideFlags: 1
@@ -133294,6 +133299,18 @@ MonoBehaviour:
   targetObject: {fileID: 1076948381}
   methodName: SetJoelFailed
   delay: 0
+--- !u!114 &1841560900 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 631567835025422413, guid: 5b76ea2ee4aba554eb48933fdea9a9b5,
+    type: 3}
+  m_PrefabInstance: {fileID: 94620916}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1432726820}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 050fb9e6e72f442b3b883da8a965bdeb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &1843391445 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 635104331983671434, guid: d5091c0746a59a1469ca7b73589b7b18,
