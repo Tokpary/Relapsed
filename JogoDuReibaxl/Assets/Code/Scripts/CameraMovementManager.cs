@@ -20,5 +20,14 @@ namespace Code.Scripts
             _camera.transform.DOMove(position, _duration).SetEase(_ease);
             _camera.transform.DORotate(rotation, _duration).SetEase(_ease);
         }
+        
+        public void LookAt(Transform target)
+        {
+            Vector3 position = target.position - transform.position;
+            position = position.normalized;
+            _camera.transform.DOMove(target.position - (position * 0.3f), _duration).SetEase(_ease);
+            _camera.transform.DOLookAt(target.position, _duration).SetEase(_ease);
+            
+        }
     }
 }

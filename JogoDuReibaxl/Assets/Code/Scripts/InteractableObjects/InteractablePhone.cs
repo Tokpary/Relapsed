@@ -1,3 +1,5 @@
+using UnityEngine;
+
 namespace Code.Scripts.InteractableObjects
 {
     public class InteractablePhone : InteractableObject
