@@ -9,6 +9,8 @@ namespace Code.Scripts
         public AudioSource audioSource;
         public bool IsRinging = true;
         public bool IsAnswering;
+        
+        [SerializeField] public GameObject callScreen;
 
         private void Start()
         {
@@ -21,6 +23,8 @@ namespace Code.Scripts
             GameManager.Instance.PickUpCall();
             audioSource.Stop();
             IsRinging = false; 
+            
+            callScreen.SetActive(false);
         }
     
         public void Call()
@@ -34,6 +38,7 @@ namespace Code.Scripts
         IEnumerator StartCalling()
         {
             IsRinging = true;
+            callScreen.SetActive(true);
             yield return new WaitForSeconds(audioSource.clip.length);
         
             if (IsRinging)
@@ -42,6 +47,8 @@ namespace Code.Scripts
                 Debug.Log("Hang up!");
                 HangUp();
                 IsRinging = false;
+                
+                callScreen.SetActive(false);
             }
         }
     
