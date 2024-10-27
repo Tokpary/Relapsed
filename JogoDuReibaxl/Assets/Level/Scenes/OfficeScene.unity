@@ -96450,7 +96450,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 88737275}
+  selectedFlowchart: {fileID: 1146940612}
 --- !u!4 &1501030019
 Transform:
   m_ObjectHideFlags: 1
@@ -139645,6 +139645,11 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 569148804}
+    - target: {fileID: 1077583876600257945, guid: 69af956fe84e6bb45b31a7ddc928a101,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2000342128}
     - target: {fileID: 1545675602742020947, guid: 69af956fe84e6bb45b31a7ddc928a101,
         type: 3}
       propertyPath: m_Name
