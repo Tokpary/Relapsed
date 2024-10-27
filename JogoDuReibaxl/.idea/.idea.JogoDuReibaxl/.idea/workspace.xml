@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b9c48d-448f-4e78-828f-71836f10c57a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Code/Scripts/InteractableObjects/InteractableLetterTrayWithCarrousel.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Code/Scripts/InteractableObjects/InteractableLetterTrayWithCarrousel.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.JogoDuReibaxl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JogoDuReibaxl/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Exterior/Building/Cristales.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Exterior/Building/Cristales.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Office/PapelDePared 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Office/PapelDePared 1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Office/PapelDePared.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Office/PapelDePared.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Office/Papeles.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Office/Papeles.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Materials/Office/PostIt1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Materials/Office/PostIt1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Art/Textures/UIPC.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Textures/UIPC.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Scripts/CameraMovementManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/CameraMovementManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Scripts/CanvaSelector.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/CanvaSelector.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Code/Scripts/InteractableObjects/InteractableWithCarrousel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Code/Scripts/InteractableObjects/InteractableWithCarrousel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/EnvironmentManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EnvironmentManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/ComputerScreen.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/ComputerScreen.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/DesktopInit.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/DesktopInit.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/LetterTray.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/LetterTray.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Office.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Office.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/PostIt.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/PostIt.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/PostIt2.prefab" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/PostIt2.prefab.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/UI/BaseDeDatos.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/UI/BaseDeDatos.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/OfficeScene 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/OfficeScene 1.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/OfficeScene 1.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/OfficeScene 1.unity.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Settings/SampleSceneProfile.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-    </list>
+    <list default="true" id="85b9c48d-448f-4e78-828f-71836f10c57a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,27 +36,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Attach to Unity Editor.Attach to Unity Editor.executor": "Debug",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "GameBuild",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Attach to Unity Editor.Attach to Unity Editor.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;GameBuild&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\TheFr\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache",
-      "C:\\Users\\TheFr\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache",
-      "C:\\Users\\TheFr\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\TheFr\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\TheFr\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\TheFr\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2022.3.20f1\Editor\Unity.exe" />
@@ -136,7 +110,7 @@
       <workItem from="1729980725003" duration="4184000" />
       <workItem from="1729986044248" duration="7571000" />
       <workItem from="1730025288947" duration="5423000" />
-      <workItem from="1730036214963" duration="11932000" />
+      <workItem from="1730036214963" duration="12786000" />
     </task>
     <servers />
   </component>
