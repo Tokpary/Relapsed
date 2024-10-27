@@ -6,11 +6,11 @@ namespace Code.Scripts.InteractableObjects
 {
     public class InteractableWithCarrousel : InteractableObject
     {
-        [SerializeField] private Sprite[] _sprite;
-        private InteractableCarrouselWindow interactableWindow;
-        private int _currentImageIndex = 0;
+        [SerializeField] protected Sprite[] _sprite;
+        protected InteractableCarrouselWindow interactableWindow;
+        protected int _currentImageIndex = 0;
         
-        private void Awake()
+        protected virtual void Awake()
         {
             interactableWindow = GameObject.Find("InteractableCarrouselVisualizer").GetComponent<InteractableCarrouselWindow>();
         }
@@ -23,7 +23,7 @@ namespace Code.Scripts.InteractableObjects
             interactableWindow.SetImage(_sprite[0]);
         }
         
-        public void NextImage()
+        public virtual void NextImage()
         {
             if (_currentImageIndex + 1 >= _sprite.Length)
             {
@@ -33,10 +33,13 @@ namespace Code.Scripts.InteractableObjects
             {
                 _currentImageIndex++;
             }
+            Debug.Log(_currentImageIndex);
+            Debug.Log(_sprite.Length);
+            Debug.Log(interactableWindow);
             interactableWindow.SetImage(_sprite[_currentImageIndex]);
         }
         
-        public void PreviousImage()
+        public virtual void PreviousImage()
         {
             if (_currentImageIndex - 1 < 0)
             {
