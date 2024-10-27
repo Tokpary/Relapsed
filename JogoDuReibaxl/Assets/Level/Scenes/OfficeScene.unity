@@ -60243,7 +60243,7 @@ PrefabInstance:
     - target: {fileID: 112264115574735967, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: nodeRect.x
-      value: 193.68199
+      value: 197.31834
       objectReference: {fileID: 0}
     - target: {fileID: 112264115574735967, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
@@ -60315,6 +60315,11 @@ PrefabInstance:
       propertyPath: commandList.Array.data[11]
       value: 
       objectReference: {fileID: 1022869238}
+    - target: {fileID: 299889390207004367, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
     - target: {fileID: 301529835690562988, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: nodeRect.width
@@ -60335,11 +60340,31 @@ PrefabInstance:
       propertyPath: commandList.Array.data[5]
       value: 
       objectReference: {fileID: 1586272984}
+    - target: {fileID: 324353929749893478, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
+    - target: {fileID: 344903103493001905, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
+    - target: {fileID: 449690987100498735, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
     - target: {fileID: 561511270976842552, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: text
       value: "\xBFQuieres que hablemos sobre tu madre?"
       objectReference: {fileID: 0}
+    - target: {fileID: 710162922505257243, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 131937782}
     - target: {fileID: 1246862728938864756, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: nodeRect.x
@@ -60375,6 +60400,11 @@ PrefabInstance:
       propertyPath: text
       value: "Seguro que con tu t\xEDa puedes pasar un buen rato."
       objectReference: {fileID: 0}
+    - target: {fileID: 1283349130841335880, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 131937782}
     - target: {fileID: 1360020802291784458, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
@@ -60384,6 +60414,11 @@ PrefabInstance:
         type: 3}
       propertyPath: storyText
       value: Creo que encontrar a ese alguien en quien apoyarte es tu labor.
+      objectReference: {fileID: 0}
+    - target: {fileID: 1369532464222101988, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.x
+      value: 1337.5947
       objectReference: {fileID: 0}
     - target: {fileID: 1369532464222101988, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
@@ -60445,6 +60480,11 @@ PrefabInstance:
       propertyPath: commandList.Array.data[10]
       value: 
       objectReference: {fileID: 1022869233}
+    - target: {fileID: 1458489412981453598, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
     - target: {fileID: 1637686279758320696, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: text
@@ -60467,6 +60507,11 @@ PrefabInstance:
         El otro d\xEDa me dijiste que estabas esperando a tu t\xEDa para comer, seguro
         que con ella puedes pasar un buen rato y distraerte un poco, \xBFno crees?"
       objectReference: {fileID: 0}
+    - target: {fileID: 2579872837932611349, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
     - target: {fileID: 2606685175518920575, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
@@ -60542,26 +60587,41 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 2022235535}
+    - target: {fileID: 2846595540698375456, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
+    - target: {fileID: 3027224769557491393, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
+    - target: {fileID: 3101156088267160390, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 131937782}
     - target: {fileID: 3159994095614627277, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: nodeRect.width
-      value: 110.714294
+      value: 106.36364
       objectReference: {fileID: 0}
     - target: {fileID: 3159994095614627277, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: commandList.Array.size
-      value: 5
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 3159994095614627277, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: commandList.Array.data[2]
       value: 
-      objectReference: {fileID: 0}
+      objectReference: {fileID: 1037120636}
     - target: {fileID: 3159994095614627277, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: commandList.Array.data[3]
       value: 
-      objectReference: {fileID: 1037120636}
+      objectReference: {fileID: 1037120635}
     - target: {fileID: 3159994095614627277, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: commandList.Array.data[4]
@@ -60587,6 +60647,11 @@ PrefabInstance:
       propertyPath: commandList.Array.data[0]
       value: 
       objectReference: {fileID: 1037120634}
+    - target: {fileID: 3363597800694346984, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
     - target: {fileID: 3398922177917180460, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: nodeRect.x
@@ -60607,6 +60672,16 @@ PrefabInstance:
       propertyPath: nodeRect.width
       value: 210.71431
       objectReference: {fileID: 0}
+    - target: {fileID: 3563040137332932761, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
+    - target: {fileID: 3624436469801446475, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
     - target: {fileID: 3701861388664744028, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: nodeRect.x
@@ -60665,7 +60740,7 @@ PrefabInstance:
     - target: {fileID: 3757839968534733150, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: selectedBlocks.Array.size
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3757839968534733150, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
@@ -60712,15 +60787,20 @@ PrefabInstance:
       propertyPath: text
       value: Garabatear la mesa no tiene nada de malo.
       objectReference: {fileID: 0}
+    - target: {fileID: 3955317322696499920, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 131937782}
     - target: {fileID: 3972286421739875084, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: nodeRect.x
-      value: 1576.5408
+      value: 1578.359
       objectReference: {fileID: 0}
     - target: {fileID: 3972286421739875084, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: nodeRect.y
-      value: 80.26816
+      value: 78.449974
       objectReference: {fileID: 0}
     - target: {fileID: 3972286421739875084, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
@@ -60745,7 +60825,7 @@ PrefabInstance:
     - target: {fileID: 4185743290443452328, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: nodeRect.x
-      value: 1024.2101
+      value: 1026.0283
       objectReference: {fileID: 0}
     - target: {fileID: 4185743290443452328, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
@@ -60832,6 +60912,11 @@ PrefabInstance:
       propertyPath: commandList.Array.data[5]
       value: 
       objectReference: {fileID: 1022869232}
+    - target: {fileID: 4472200997732711172, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 131937782}
     - target: {fileID: 4768616899627448414, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: nodeRect.x
@@ -60921,7 +61006,7 @@ PrefabInstance:
     - target: {fileID: 4937583303343936834, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: nodeRect.x
-      value: 847.5669
+      value: 851.20325
       objectReference: {fileID: 0}
     - target: {fileID: 4937583303343936834, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
@@ -60958,6 +61043,11 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 2022235535}
+    - target: {fileID: 5642013562001598214, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 131937782}
     - target: {fileID: 5736048897830231912, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: nodeRect.width
@@ -61088,6 +61178,16 @@ PrefabInstance:
       propertyPath: commandList.Array.data[11]
       value: 
       objectReference: {fileID: 1022869235}
+    - target: {fileID: 5807887169400633992, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
+    - target: {fileID: 5951847138877785572, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
     - target: {fileID: 6120375034436962967, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: nodeRect.x
@@ -61220,9 +61320,19 @@ PrefabInstance:
       objectReference: {fileID: 1022869243}
     - target: {fileID: 6488258324785384586, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 131937782}
+    - target: {fileID: 6488258324785384586, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
       propertyPath: storyText
       value: "\xBFQu\xE9 es lo que te han dicho sobre ella?"
       objectReference: {fileID: 0}
+    - target: {fileID: 6499729730284778614, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
     - target: {fileID: 6613153102200183520, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
@@ -61319,6 +61429,16 @@ PrefabInstance:
       propertyPath: text
       value: Creo que descubrir eso es tu labor.
       objectReference: {fileID: 0}
+    - target: {fileID: 7700136355060243516, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
+    - target: {fileID: 7734688931884514788, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 131937782}
     - target: {fileID: 7734688931884514788, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: storyText
@@ -61331,6 +61451,11 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 2022235535}
+    - target: {fileID: 7826835128133032307, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 131937782}
     - target: {fileID: 7953375966495460324, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: text
@@ -61348,8 +61473,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8090766044744242509, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
+    - target: {fileID: 8090766044744242509, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
       propertyPath: storyText
       value: "\xBFHola? \xBFHay alguien ah\xED?"
+      objectReference: {fileID: 0}
+    - target: {fileID: 8368382376015584339, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 2022235535}
+    - target: {fileID: 8557541250962765966, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.x
+      value: 200.50024
       objectReference: {fileID: 0}
     - target: {fileID: 8557541250962765966, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
@@ -61476,6 +61616,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9085777848398524078, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: character
+      value: 
+      objectReference: {fileID: 131937782}
     - target: {fileID: 9138484561623134877, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: text
@@ -62162,7 +62307,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 1786.3774
+    x: 1790.0139
     y: 19.884766
     width: 95.454544
     height: 40
@@ -71608,7 +71753,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "Disculpa, estaba pensando en qu\xE9 decirte al respecto."
   description: 
-  character: {fileID: 0}
+  character: {fileID: 131937782}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -71636,7 +71781,7 @@ MonoBehaviour:
   storyText: "Garabatear la mesa no tiene nada de malo, conozco a alguien con mucho
     talento que empez\xF3 as\xED."
   description: 
-  character: {fileID: 0}
+  character: {fileID: 131937782}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -71664,7 +71809,7 @@ MonoBehaviour:
   storyText: "Son ellos quienes est\xE1n comport\xE1ndose as\xED contigo y es l\xF3gico
     que te sientas impotente con c\xF3mo se comportan."
   description: 
-  character: {fileID: 0}
+  character: {fileID: 131937782}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -83851,7 +83996,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "\xBFY a ti qu\xE9 te importa?"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 2022235535}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -96450,7 +96595,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 168292545}
+  selectedFlowchart: {fileID: 853222872}
 --- !u!4 &1501030019
 Transform:
   m_ObjectHideFlags: 1
@@ -97209,7 +97354,7 @@ MonoBehaviour:
   storyText: "Entiendo. No te preocupes, estar\xE9 como siempre a este lado de la
     l\xEDnea para cuando necesites hablar conmigo, no lo dudes."
   description: 
-  character: {fileID: 0}
+  character: {fileID: 131937782}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
