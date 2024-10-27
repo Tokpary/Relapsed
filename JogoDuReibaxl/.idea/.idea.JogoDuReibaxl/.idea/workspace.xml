@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="85b9c48d-448f-4e78-828f-71836f10c57a" name="Changes" comment="" />
+    <list default="true" id="85b9c48d-448f-4e78-828f-71836f10c57a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.JogoDuReibaxl/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.JogoDuReibaxl/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Credits.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Credits.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Fonts/Quicksand/Quicksand-VariableFont_wght SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Fonts/Quicksand/Quicksand-VariableFont_wght SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Fonts/san_frediano/san-frediano-bold SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Fonts/san_frediano/san-frediano-bold SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Art/Fonts/san_frediano/san-frediano-regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Art/Fonts/san_frediano/san-frediano-regular SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/EnvironmentManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/EnvironmentManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Dialogues/UI/MenuDialog.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Dialogues/UI/MenuDialog.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Dialogues/UI/SayDialog.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Dialogues/UI/SayDialog.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Notebook.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Prefabs/Office/Notebook.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/Ending.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/Ending.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/MainTitle.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/MainTitle.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Level/Scenes/OfficeScene 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Level/Scenes/OfficeScene 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/StartFadeOut.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/StartFadeOut.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +35,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/EnvironmentManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FadeOut.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FadeOutText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FinalImage.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ReturnToMenu.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/StartFadeIn.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/StartFadeOut.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
@@ -110,7 +126,7 @@
       <workItem from="1729980725003" duration="4184000" />
       <workItem from="1729986044248" duration="7571000" />
       <workItem from="1730025288947" duration="5423000" />
-      <workItem from="1730036214963" duration="12786000" />
+      <workItem from="1730036214963" duration="18287000" />
     </task>
     <servers />
   </component>

@@ -9,26 +9,31 @@ public class StartFadeOut : MonoBehaviour
 {  
     private Image _image;
     public float _fadeSpeed = 2f;
+    public AudioSource audioSource;
     
     private void Start()
     {
         _image = GetComponent<Image>();
         _image.DOColor(new Color(0,0,0, 0), _fadeSpeed).SetEase(Ease.InQuad);
+        audioSource.DOFade(1, 2f);
     }
     
     public void Fade()
     {
         Sequence sequence = DOTween.Sequence();
         sequence.Append(_image.DOColor(new Color(0,0,0, 1), 3f).SetEase(Ease.InSine).SetDelay(1f));
+        sequence.AppendCallback(() => audioSource.DOFade(0, 2f));
         sequence.AppendInterval(2f);
         sequence.AppendCallback(() => SceneManager.LoadScene(1));
     }
     public void FadeIn()
     {
         _image.DOColor(new Color(0,0,0, 1), _fadeSpeed).SetEase(Ease.InQuad);
+        audioSource.DOFade(0, 2f);
     }
     public void FadeOut()
     {
         _image.DOColor(new Color(0,0,0, 0), _fadeSpeed).SetEase(Ease.InQuad);
+        audioSource.DOFade(1, 2f);
     }
 }

@@ -33,6 +33,9 @@ public class EnvironmentManager : Singleton<EnvironmentManager>
     
     public GameObject[] PostIts;
     public GameObject[] Letters;
+    public Texture[] CalendarSprites;
+    
+    [SerializeField] private Material CalendarMat;
     
     [SerializeField]InteractableLetterTrayWithCarrousel letterTray;
     
@@ -93,7 +96,11 @@ public class EnvironmentManager : Singleton<EnvironmentManager>
     {
         JoelState = 2;
     }
-    
+
+    public void UpdateCalendar()
+    {
+        CalendarMat.mainTexture = CalendarSprites[GameManager.Instance.CurrentDay - 1];
+    }
 
     public void UpdateEnvironment()
     {
