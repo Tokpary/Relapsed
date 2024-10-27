@@ -10,13 +10,15 @@ public class GameManager : Singleton<GameManager>
     public int CurrentDay { get; private set; } = 1;
     public int CurrentDialogue { get; private set; } = 0;
     public Flowchart[] Flowcharts;
+    public Flowchart[] FlowchartsKarma;
     public bool IsFirstCall = true;
+    
+    public int[] Karma = new int[3];
     
     public void NextDay()
     {
         CurrentDay++;
-        CurrentDialogue = 0;
-        Flowcharts[CurrentDay - 1].ExecuteBlock("TutorialPresentacion");
+        EnvironmentManager.Instance.UpdateEnvironment();
     }
     
     public void DismissCall()
