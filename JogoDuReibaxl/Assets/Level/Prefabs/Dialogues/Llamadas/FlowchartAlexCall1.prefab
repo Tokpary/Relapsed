@@ -68,7 +68,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &5106150477440086843
 Transform:
   m_ObjectHideFlags: 0
@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: -50.700256, y: 322.03613}
+  scrollPos: {x: 301.53864, y: 320.5436}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 344
@@ -108,10 +108,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 2909719531412289676}
-  selectedCommands:
-  - {fileID: 633935922857294604}
+  selectedBlocks: []
+  selectedCommands: []
   variables:
   - {fileID: 6231627359172321029}
   - {fileID: 8468389776703176800}
@@ -1418,7 +1416,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scope: 0
   key: Karma
-  value: 0
+  value: 170
 --- !u!114 &846219734089573308
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1475,8 +1473,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 518.58014
-    y: -105.87996
+    x: 521.56525
+    y: -99.90981
     width: 75.37314
     height: 40
   tint: {r: 0.16470589, g: 0.16470589, b: 0.16470589, a: 1}

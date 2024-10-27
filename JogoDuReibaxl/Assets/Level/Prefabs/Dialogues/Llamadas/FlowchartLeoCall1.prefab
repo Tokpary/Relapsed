@@ -268,7 +268,7 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 4076280417580236103}
+  - {fileID: 771693873514822268}
   selectedCommands: []
   variables:
   - {fileID: 6958904310488885078}
@@ -2618,7 +2618,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scope: 1
   key: Karma
-  value: 80
+  value: 170
 --- !u!114 &7776030861075504569
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -42,7 +42,6 @@ GameObject:
   - component: {fileID: 8629157804498042864}
   - component: {fileID: 7021810364286211869}
   - component: {fileID: 5455459729197831041}
-  - component: {fileID: 6886942338997024257}
   - component: {fileID: 9091996643512652697}
   - component: {fileID: 6802514230925042837}
   - component: {fileID: 5583608234830898550}
@@ -67,7 +66,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &8600268229320876192
 Transform:
   m_ObjectHideFlags: 0
@@ -112,7 +111,6 @@ MonoBehaviour:
   variables:
   - {fileID: 6457406276830538661}
   - {fileID: 7642790127922625092}
-  - {fileID: 6886942338997024257}
   - {fileID: 6853777982422414009}
   - {fileID: 7871794250355947406}
   description: 
@@ -1401,21 +1399,6 @@ MonoBehaviour:
   - {fileID: 7543042029849787225}
   - {fileID: 528197375599939093}
   suppressAllAutoSelections: 0
---- !u!114 &6886942338997024257
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7091498498329728240}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: afb91b566ceda411bad1e9d3c3243ecc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  scope: 0
-  key: Karma
-  value: 0
 --- !u!114 &9091996643512652697
 MonoBehaviour:
   m_ObjectHideFlags: 0

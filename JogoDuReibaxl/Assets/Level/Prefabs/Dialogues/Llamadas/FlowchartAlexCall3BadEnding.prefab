@@ -42,7 +42,6 @@ GameObject:
   - component: {fileID: 1255021043984419444}
   - component: {fileID: 5652912647793144116}
   - component: {fileID: 791533317679053594}
-  - component: {fileID: 248151506083926385}
   - component: {fileID: 590187841295913729}
   - component: {fileID: 8696261566761828972}
   - component: {fileID: 8512925592527225831}
@@ -65,7 +64,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &998774577664040395
 Transform:
   m_ObjectHideFlags: 0
@@ -94,7 +93,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  scrollPos: {x: 225.88783, y: 232.45657}
+  scrollPos: {x: 267.99323, y: 337.71976}
   variablesScrollPos: {x: 0, y: 0}
   variablesExpanded: 1
   blockViewHeight: 344
@@ -105,14 +104,11 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks:
-  - {fileID: 5263852484034182728}
-  selectedCommands:
-  - {fileID: 1102667157185036335}
+  selectedBlocks: []
+  selectedCommands: []
   variables:
   - {fileID: 7566246523108101683}
   - {fileID: 3757054341527513253}
-  - {fileID: 248151506083926385}
   - {fileID: 1682423561279402037}
   - {fileID: 6884377996268778828}
   description: 
@@ -185,8 +181,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 170.7695
-    y: -102.385895
+    x: 172.0853
+    y: -111.59641
     width: 89.47368
     height: 40
   tint: {r: 0, g: 1, b: 0.054581404, a: 1}
@@ -1379,8 +1375,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 328.00534
-    y: -102.702614
+    x: 310.90005
+    y: -113.22892
     width: 128.94736
     height: 40
   tint: {r: 0.3921569, g: 0, b: 0.80392164, a: 1}
@@ -1399,21 +1395,6 @@ MonoBehaviour:
   - {fileID: 2164819523142762095}
   - {fileID: 8801398425933952225}
   suppressAllAutoSelections: 0
---- !u!114 &248151506083926385
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7448616336559232449}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: afb91b566ceda411bad1e9d3c3243ecc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  scope: 0
-  key: Karma
-  value: 0
 --- !u!114 &590187841295913729
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1548,8 +1529,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nodeRect:
     serializedVersion: 2
-    x: 492.2682
-    y: -101.03568
+    x: 483.05762
+    y: -114.193565
     width: 74.99999
     height: 40
   tint: {r: 0.16470589, g: 0.16470589, b: 0.16470589, a: 1}
