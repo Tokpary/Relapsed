@@ -321,7 +321,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 4017593143476103330}
+  selectedFlowchart: {fileID: 4903801423091287241}
 --- !u!4 &477304317
 Transform:
   m_ObjectHideFlags: 1
@@ -9079,11 +9079,21 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 112264115574735967, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 135.7143
+      objectReference: {fileID: 0}
     - target: {fileID: 299889390207004367, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
       value: 
       objectReference: {fileID: 451395240}
+    - target: {fileID: 301529835690562988, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 94.897964
+      objectReference: {fileID: 0}
     - target: {fileID: 324353929749893478, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
@@ -9109,6 +9119,11 @@ PrefabInstance:
       propertyPath: anyVar.variable
       value: 
       objectReference: {fileID: 484105397}
+    - target: {fileID: 1246862728938864756, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 62.2449
+      objectReference: {fileID: 0}
     - target: {fileID: 1283349130841335880, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
@@ -9119,6 +9134,11 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 451395240}
+    - target: {fileID: 1369532464222101988, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 90.81633
+      objectReference: {fileID: 0}
     - target: {fileID: 1458489412981453598, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
@@ -9149,6 +9169,11 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 451395240}
+    - target: {fileID: 2662265640387081001, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 96.93878
+      objectReference: {fileID: 0}
     - target: {fileID: 2727599162364073687, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: anyVar.variable
@@ -9179,16 +9204,31 @@ PrefabInstance:
       propertyPath: anyVar.variable
       value: 
       objectReference: {fileID: 484105397}
+    - target: {fileID: 3159994095614627277, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 103.061226
+      objectReference: {fileID: 0}
     - target: {fileID: 3274624093273299585, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: anyVar.variable
       value: 
       objectReference: {fileID: 484105397}
+    - target: {fileID: 3350910751651084638, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 72.44898
+      objectReference: {fileID: 0}
     - target: {fileID: 3363597800694346984, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
       value: 
       objectReference: {fileID: 451395240}
+    - target: {fileID: 3398922177917180460, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 192.85715
+      objectReference: {fileID: 0}
     - target: {fileID: 3563040137332932761, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
@@ -9199,15 +9239,60 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 451395240}
+    - target: {fileID: 3701861388664744028, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 86.734695
+      objectReference: {fileID: 0}
+    - target: {fileID: 3757839968534733150, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: zoom
+      value: 0.48999998
+      objectReference: {fileID: 0}
+    - target: {fileID: 3757839968534733150, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: scrollPos.x
+      value: 135.66913
+      objectReference: {fileID: 0}
+    - target: {fileID: 3757839968534733150, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: scrollPos.y
+      value: 339.68353
+      objectReference: {fileID: 0}
+    - target: {fileID: 3757839968534733150, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: selectedBlocks.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3757839968534733150, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: selectedBlocks.Array.data[0]
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3955317322696499920, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
       value: 
       objectReference: {fileID: 1607360311}
+    - target: {fileID: 3972286421739875084, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 123.46939
+      objectReference: {fileID: 0}
+    - target: {fileID: 4185743290443452328, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 60.204082
+      objectReference: {fileID: 0}
     - target: {fileID: 4332966863829969578, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: m_Name
       value: FlowchartJoelCall2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4364217360208424366, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 103.061226
       objectReference: {fileID: 0}
     - target: {fileID: 4472200997732711172, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
@@ -9219,11 +9304,26 @@ PrefabInstance:
       propertyPath: anyVar.variable
       value: 
       objectReference: {fileID: 484105397}
+    - target: {fileID: 4768616899627448414, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 92.85715
+      objectReference: {fileID: 0}
     - target: {fileID: 4886565176579770472, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
       value: 
       objectReference: {fileID: 451395240}
+    - target: {fileID: 4897179594358726821, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 123.46939
+      objectReference: {fileID: 0}
+    - target: {fileID: 4937583303343936834, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 131.63266
+      objectReference: {fileID: 0}
     - target: {fileID: 4993876745128851533, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
@@ -9244,6 +9344,11 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 1607360311}
+    - target: {fileID: 5736048897830231912, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 86.734695
+      objectReference: {fileID: 0}
     - target: {fileID: 5807887169400633992, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
@@ -9259,6 +9364,16 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 1297963683}
+    - target: {fileID: 6120375034436962967, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 133.67346
+      objectReference: {fileID: 0}
+    - target: {fileID: 6232260179097934428, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 98.9796
+      objectReference: {fileID: 0}
     - target: {fileID: 6488258324785384586, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
@@ -9279,6 +9394,11 @@ PrefabInstance:
       propertyPath: anyVar.variable
       value: 
       objectReference: {fileID: 484105397}
+    - target: {fileID: 7194824125245347058, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 127.551025
+      objectReference: {fileID: 0}
     - target: {fileID: 7273519224991577461, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: character
@@ -9339,6 +9459,16 @@ PrefabInstance:
       propertyPath: character
       value: 
       objectReference: {fileID: 451395240}
+    - target: {fileID: 8557541250962765966, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 98.9796
+      objectReference: {fileID: 0}
+    - target: {fileID: 8786107570315091625, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+        type: 3}
+      propertyPath: nodeRect.width
+      value: 156.12245
+      objectReference: {fileID: 0}
     - target: {fileID: 8958595914581542851, guid: 4c37e688e004ad949a95e4b6d9ea9732,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9404,6 +9534,18 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4c37e688e004ad949a95e4b6d9ea9732, type: 3}
+--- !u!114 &4903801423091287241 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3757839968534733150, guid: 4c37e688e004ad949a95e4b6d9ea9732,
+    type: 3}
+  m_PrefabInstance: {fileID: 4903801423091287240}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a334fe2ffb574b3583ff3b18b4792d3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &6894975302068507555
 PrefabInstance:
   m_ObjectHideFlags: 0
