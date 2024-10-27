@@ -19688,7 +19688,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1310.5137
     y: -152.77666
-    width: 206
+    width: 179.41176
     height: 40
   tint: {r: 0.3273938, g: 0, b: 0.6886792, a: 1}
   useCustomTint: 1
@@ -19853,7 +19853,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1601.6578
     y: -63.43759
-    width: 240
+    width: 205.88235
     height: 40
   tint: {r: 0.92549026, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -19909,7 +19909,7 @@ MonoBehaviour:
   indentLevel: 0
   storyText: "\xBFPor qu\xE9 lo dices?"
   description: 
-  character: {fileID: 0}
+  character: {fileID: 131937782}
   portrait: {fileID: 0}
   voiceOverClip: {fileID: 0}
   showAlways: 1
@@ -19964,7 +19964,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1619.6654
     y: -118.987206
-    width: 190
+    width: 164.70587
     height: 40
   tint: {r: 0.92549026, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -20051,7 +20051,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1630.7517
     y: -170.40936
-    width: 162
+    width: 141.17647
     height: 40
   tint: {r: 0.92549026, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -20254,7 +20254,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1636.782
     y: -231.77444
-    width: 162
+    width: 141.17647
     height: 40
   tint: {r: 0, g: 0.882353, b: 0.04705883, a: 1}
   useCustomTint: 1
@@ -21764,7 +21764,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 1083.5743
     y: -156.34082
-    width: 162
+    width: 144.11765
     height: 40
   tint: {r: 0.3273938, g: 0, b: 0.6886792, a: 1}
   useCustomTint: 1
@@ -21826,7 +21826,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 619.0352
     y: -122.00791
-    width: 118
+    width: 108.82353
     height: 40
   tint: {r: 0.3273938, g: 0, b: 0.6886792, a: 1}
   useCustomTint: 1
@@ -21921,7 +21921,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 810.07214
     y: -44.325542
-    width: 198
+    width: 170.58823
     height: 40
   tint: {r: 0.92549026, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -22059,7 +22059,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 392.51025
     y: -47.171436
-    width: 154
+    width: 135.29411
     height: 40
   tint: {r: 0.92549026, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -22139,7 +22139,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2054.738
     y: -119.639885
-    width: 154
+    width: 135.29411
     height: 40
   tint: {r: 0.92549026, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -22216,7 +22216,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 2057.1794
     y: -169.61426
-    width: 154
+    width: 135.29411
     height: 40
   tint: {r: 0, g: 0.882353, b: 0.04705883, a: 1}
   useCustomTint: 1
@@ -22274,7 +22274,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 828.07983
     y: -98.056946
-    width: 146
+    width: 129.41177
     height: 40
   tint: {r: 0.92549026, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -22332,7 +22332,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 844.62054
     y: -149.47917
-    width: 110
+    width: 100
     height: 40
   tint: {r: 0.92549026, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -22363,7 +22363,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 841.01605
     y: -196.62065
-    width: 110
+    width: 100
     height: 40
   tint: {r: 0, g: 0.882353, b: 0.04705883, a: 1}
   useCustomTint: 1
@@ -22419,7 +22419,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 416.66156
     y: -99.08466
-    width: 102
+    width: 94.117645
     height: 40
   tint: {r: 0.92549026, g: 0, b: 0, a: 1}
   useCustomTint: 1
@@ -96450,7 +96450,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61dddfdc5e0e44ca298d8f46f7f5a915, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  selectedFlowchart: {fileID: 1146940612}
+  selectedFlowchart: {fileID: 168292545}
 --- !u!4 &1501030019
 Transform:
   m_ObjectHideFlags: 1
